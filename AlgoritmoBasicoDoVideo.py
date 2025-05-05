@@ -1,7 +1,5 @@
 # 📊 Algoritmo Básico do Vídeo
 
-```python
-
 import networkx as nx
 
 # 1. Criando um grafo G:
@@ -28,5 +26,3 @@ print(f"{'- Conexo:':<25} {'Sim' if nx.is_connected(G) else 'Não'}")
 print(f"{'- Coloração dos nós:':<25} {coloracao}")
 print(f"{'- Cores:':<25} {num_cores}")
 
-
-```
